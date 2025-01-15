@@ -94,10 +94,5 @@ url(../img/nat-10.jpg);
        @include respond(tab-port) {
            width: 100%;
        }
-       @include respond(tab-port) {
-        width: 100%;
-    }@include respond(tab-port) {
-        width: 100%;
-    }
    }
 }
