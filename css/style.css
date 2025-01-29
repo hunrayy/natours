@@ -971,3 +971,6 @@ body {
     @media only screen and (max-width: 56.25em) {
       .book__form {
         width: 100%; } }
+.shsjs{
+  height: 100vh;
+}
