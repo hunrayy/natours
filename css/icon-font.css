@@ -11,6 +11,9 @@
   font-style: normal;
 
 }
+.hdhdh{
+  height: 100px;
+}
 
 [data-icon]:before {
   font-family: "linea-basic-10" !important;
